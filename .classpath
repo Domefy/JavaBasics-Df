@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="10Internet/udp10.2.4"/>
+	<classpathentry kind="src" path="5Thread/5.6.1"/>
+	<classpathentry kind="src" path="9GUI"/>
+	<classpathentry kind="src" path="8IO"/>
+	<classpathentry excluding="udp10.2.4/" kind="src" path="10Internet"/>
+	<classpathentry kind="src" path="6JavaApi"/>
+	<classpathentry excluding="5.6.1/" kind="src" path="5Thread"/>
+	<classpathentry kind="src" path="7Collections"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
